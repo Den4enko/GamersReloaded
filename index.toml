@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "config/openloader/resources/GamersReloaded Resources/assets/apotheosis/lang/ru_ru.json"
-hash = "5eca481cb0c93818dabf1a6fa8d4d8bd0b27bf848a5f0c7dde00d7ab6d2819bc"
+hash = "5f4b6502fb99350ed5ef9ae59185603c24186235ac904f34fb5120bf2bbfe3f1"
 
 [[files]]
 file = "config/openloader/resources/GamersReloaded Resources/assets/brewinandchewin/lang/ru_ru.json"
