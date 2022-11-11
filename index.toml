@@ -10,7 +10,7 @@ hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "11f7dc2e910b6aa4fc3a22a8ea11e6757286edd56bcf69c5db479ed9ba69a4a2"
+hash = "3bbf4d2067dfca8021b40bc41e03266df54b169f6721efe0ca8fb5c01ecadf22"
 
 [[files]]
 file = "config/blue_skies-client.toml"
@@ -94,7 +94,7 @@ hash = "d5d6716f7fdbd58e12bf64cc777b95678e8527c4e87e0aeffdae373520b23a7b"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "1a948f1b4374f4e3f02501c7feb43784021718a93c1ed5f9f19adf357bb2d20e"
+hash = "32860f136bc58395924ab2619aa3cdb037d79aaee10ae01cce7d71221b8437e9"
 
 [[files]]
 file = "config/forge-client.toml"
