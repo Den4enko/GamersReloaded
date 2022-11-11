@@ -269,11 +269,6 @@ hash = "ad069dc41f99352ef262bcd674bfdabf526a8202333f673a9c94893458fc2da4"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "a57e921f872596ca19e411d726b7f6db272267f2dd712322a3168ce0f404fd44"
-metafile = true
-
-[[files]]
 file = "mods/configured.pw.toml"
 hash = "2bfca7a4300b54b98ca96f631c55236def2ab9dd82f18c255cb5d0fa8cde225c"
 metafile = true
@@ -481,6 +476,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "3e41f4dd83b01ccc37cc712ea07550a6c017badabdc1fb21ce329e01dcb15e58"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "01a67fa4a98251ec827e59a7f03c4002b953c66f5da51f3e9aae8b30c523ecd4"
 metafile = true
 
 [[files]]
