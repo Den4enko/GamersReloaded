@@ -1,6 +1,6 @@
 {
-  "version": "14.14",
-  "buildNumber": 347,
+  "version": "14.15",
+  "buildNumber": 357,
   "loadlist": [
     {
       "name": "ElyBy",
@@ -25,10 +25,10 @@
   "forceLoadAllTextures": false,
   "enableCape": true,
   "threadPoolSize": 3,
-  "retryTime": 1,
+  "enableLogStdOut": false,
   "cacheExpiry": 30,
   "forceUpdateSkull": false,
   "enableLocalProfileCache": false,
-  "enableCacheAutoClean": false,
+  "enableCacheAutoClean": true,
   "forceDisableCache": false
 }

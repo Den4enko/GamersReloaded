@@ -2,7 +2,6 @@ version:2975
 autoJump:false
 guiScale:3
 soundCategory_music:0.0
-lang:ru_ru
 tutorialStep:none
 skipMultiplayerWarning:true
 joinedFirstServer:true

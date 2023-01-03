@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "CustomSkinLoader/CustomSkinLoader.json"
-hash = "99b69334ce4cfe6119aa3cc6e45ba5aa720a13912d9ba230f9236e9e9602c7f8"
+hash = "d41113c44d0d06331573fd8a9d79d6e4ee43f9cab6805e88d9eacc8fd1ad7e66"
+
+[[files]]
+file = "README.md"
+hash = "ecb447d85f6642abe9469e810d77cf2338977ed450c42cef714b3b66294e88cc"
 
 [[files]]
 file = "config/ProjectE/client.toml"
@@ -10,7 +14,7 @@ hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "5824e56ce8a41d283a158a51c2c366150532754305508ad3e38402480847afe4"
+hash = "a4e6330b03edab84b0b9a29e9eab4652c2806b11baf11834e9dfe436fbbadd77"
 
 [[files]]
 file = "config/blue_skies-client.toml"
@@ -30,7 +34,7 @@ hash = "cad827910f91929dc962730c9141a935caad6c6e24f1287106517a69d2a12915"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "25d332fad4ec93ac3899cb26b2f03148a376e37632ad9db04b95d919a561becd"
+hash = "f51732d392a0af319dc7a43a7a3c8b6b3fc1cec10fb5093cbdfe5c37149c7f2f"
 
 [[files]]
 file = "config/drippyloadingscreen/config.cfg"
@@ -46,19 +50,19 @@ hash = "c640bb9d1d1d9a47e5a113126e384e9bccf5409bc52837e28c9622cb8c399d3b"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "d3b2331e25ce3fa7f1c5069677defd4af621acd27e2bc9da225f647172f26c49"
+hash = "e9df0449ac60265e7358a759f4a227b86523bc2e072f2c7c21508f0ab5a98b01"
 
 [[files]]
 file = "config/fancymenu/custom_locals/pack/en_us.local"
-hash = "438c54fdb38eed30ab127f355d4a344cb195e26d87e31b29e78740ef409b75f8"
+hash = "c2f0cef18f72cadbbcc93510fef14946e56d4434fef34a352734c9214c310bee"
 
 [[files]]
 file = "config/fancymenu/custom_locals/pack/ru_ru.local"
-hash = "c604094b903f3b9a0aa2a1bd910103846edc2cb0a769f84a7317bc482a658dd1"
+hash = "30ba07f938617c4a3c533a10cf24e579c0a80061a02d7236ffcf11aba2d3c51a"
 
 [[files]]
 file = "config/fancymenu/custom_locals/pack/uk_ua.local"
-hash = "59b3c60e096d4abf5f2872913fc575454b45601262f751704d193c8befb7cfd9"
+hash = "4757c3e9016a7c9886651abe07f37c94084e52cc87f4a51afd5adca2c42bf34b"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -66,7 +70,7 @@ hash = "4c68ab99c906dd487952f61bf33c0635039a8bbff3f02099e3cd8272fe51b4aa"
 
 [[files]]
 file = "config/fancymenu/customization/Menu.txt"
-hash = "15290eea9d57c3795b6ed45dd4c8e309608f3ce9f5e4e21ecb95637bb1e8f2f6"
+hash = "f2f85ecf8843fcefa5169ed06a44360dbb53b9832048bd942b486c1a4c75ad86"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
@@ -81,12 +85,16 @@ file = "config/fancymenu/resources/background.png"
 hash = "3f7572f2328551f7bea456cf661cb4fe4a4fc6ee9dde769c6ad80956c97c6fe0"
 
 [[files]]
+file = "config/fancymenu/resources/basepack_version.txt"
+hash = "b05e244762b1e472be89a93800cc3ee326743cecb55984bf12813addb8de66d0"
+
+[[files]]
 file = "config/fancymenu/resources/logo.png"
 hash = "975d2b104e7bfd1a6735bedc9eff04700f79062ca5fee0b96b36b40c98cc3a96"
 
 [[files]]
 file = "config/fancymenu/resources/pack_version.txt"
-hash = "a97b042d7bd59d92a46e8ab17f7dff7326067c74b938e6f6daabf1768932330d"
+hash = "eca06fdd26e513a7b8510c86602285041a916de5491de13373d94fe0d7e04737"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -106,6 +114,18 @@ hash = "e33602eeae50447d004c33c2ecbe8b9c6f9fd7a0b63b4d82ae94818f6e8172aa"
 metafile = true
 
 [[files]]
+file = "config/openloader/resources/ForgePackBase/assets/simplelogin/lang/ru_ru.json"
+hash = "592cfeef46c65ff0c9319c1ca22e83121ccd0da2a70a771490dd485f5f57846d"
+
+[[files]]
+file = "config/openloader/resources/ForgePackBase/assets/tipsmod/lang/ru_ru.json"
+hash = "fca6bc6971763f96522f080d7a681beeeb16bf31c316f4f34d9fa17571681859"
+
+[[files]]
+file = "config/openloader/resources/ForgePackBase/pack.mcmeta"
+hash = "1fd5eb9cd09b202fa0e36cf1a4fc47ce91f76d13d9179c2a09a16dac4ba4e455"
+
+[[files]]
 file = "config/openloader/resources/GamersReloaded Resources/assets/apotheosis/lang/ru_ru.json"
 hash = "5f4b6502fb99350ed5ef9ae59185603c24186235ac904f34fb5120bf2bbfe3f1"
 
@@ -122,14 +142,6 @@ file = "config/openloader/resources/GamersReloaded Resources/assets/moremekanism
 hash = "06e88de4d2d8744332d9c290d8a06f887a66e0197695cf5fc4b35f438539df31"
 
 [[files]]
-file = "config/openloader/resources/GamersReloaded Resources/assets/simplelogin/lang/ru_ru.json"
-hash = "592cfeef46c65ff0c9319c1ca22e83121ccd0da2a70a771490dd485f5f57846d"
-
-[[files]]
-file = "config/openloader/resources/GamersReloaded Resources/assets/tipsmod/lang/ru_ru.json"
-hash = "fca6bc6971763f96522f080d7a681beeeb16bf31c316f4f34d9fa17571681859"
-
-[[files]]
 file = "config/openloader/resources/GamersReloaded Resources/pack.mcmeta"
 hash = "6a6ebac7a4b043497eae05aec062495abebba7fff3456db9f0b3a844ad46b5a0"
 
@@ -138,13 +150,13 @@ file = "config/openloader/resources/Tutta's_MCA_Texture_V1.15+-+1.18+.zip"
 hash = "fc96966b4ffe0e936022de7f781243e702f3c046643eb2046a215b74242c04bf"
 
 [[files]]
-file = "config/openloader/resources/default-dark-mode.pw.toml"
-hash = "347ea710fbbd05e3f87c8a0d76fd3452d089e3874c01188b2beea999acb255cf"
+file = "config/openloader/resources/customrussianforminecraft.pw.toml"
+hash = "322a2f13d1c78f4ca641e845734679bdde5a335d03354c4d2c77460f049b62d8"
 metafile = true
 
 [[files]]
-file = "config/openloader/resources/ru-uk.pw.toml"
-hash = "5edcd21eaac9aaf6099a11062b3d04d39cc30e7ffa07cdc2a3bbf04ec11114b0"
+file = "config/openloader/resources/default-dark-mode.pw.toml"
+hash = "b6bcef19876339bfd32cf6c009b6b7d2c6a0cf7536e468f6c66698521f28f9eb"
 metafile = true
 
 [[files]]
@@ -257,6 +269,11 @@ hash = "ad069dc41f99352ef262bcd674bfdabf526a8202333f673a9c94893458fc2da4"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "4d5cfa79f9675b5bd2a8711d48977ad63b7d198eb46c5cc7bb165a8f909101ac"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "2bfca7a4300b54b98ca96f631c55236def2ab9dd82f18c255cb5d0fa8cde225c"
 metafile = true
@@ -268,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
-hash = "dec71cae2efbd3e7330ecbcd228104831494d63a083634680b1ef408e5af2229"
+hash = "3c3db9fb1d218f312693d378fee72943b64fe6e0e3e0df172887a12419754724"
 metafile = true
 
 [[files]]
@@ -278,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-stuff-additions.pw.toml"
-hash = "fa6b7f5c4de6ab7ac1f284c1e73c634c281671069ee78b19633d59d11a485463"
+hash = "35d229d30cf14fc5d0244ea2f43ef22c3f94a35523b0afeed3826798c5e4e6b2"
 metafile = true
 
 [[files]]
@@ -288,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "1436267db6abd51ca826c1798394fc1b0d36ea3f1886bce461c9d3dd7dc7f9aa"
+hash = "9dbcda8ffbaedfdf3dcecf7af271a19e1fa886c27516bec6fda4606a36518a42"
 metafile = true
 
 [[files]]
@@ -303,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
-hash = "4059c488496b06794c5ff8073d8952e0a242a001a3eb320a5c83e4e4b30fa95b"
+hash = "57d92db00051ecdf3ded295aacbcf9d1a5291e37cb9e6c9fc9653668861a9197"
 metafile = true
 
 [[files]]
@@ -323,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "8724c9afd1e767f24c7755a57664399d37444ddf9a97a135f0b1e6c203444d7a"
+hash = "605f32ad7d8999c3bbd4af14926ef0f8566142b73d4d0e8a732e6eef93a95ac6"
 metafile = true
 
 [[files]]
@@ -333,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "f63e2cb6aa794ed64af34a79ce9f993fe03d3a83892ce47eeff1c8e4e594ebc5"
+hash = "03f5a2eb3c7c2c871f8a3b3ac0235291d41e70ac4baa22e9c9140e358b8773ab"
 metafile = true
 
 [[files]]
@@ -353,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "d90ba62a3aa50227688952e1f4fbcc704f0b80419a14d05765f3d8c9eb12f348"
+hash = "fb12c72525fb1b71f955624bdf748bce45f358884394da51d67025a8f4ac6640"
 metafile = true
 
 [[files]]
@@ -467,8 +484,13 @@ hash = "1abd6b14897b96bd995cca1da58bffc0637207f4854fe7afd1fe9aad228988a7"
 metafile = true
 
 [[files]]
+file = "mods/log-begone.pw.toml"
+hash = "97009dc2d61177ab12f320824a34a1343295653ad75f37250f1eaa4a349476be"
+metafile = true
+
+[[files]]
 file = "mods/mana-and-artifice.pw.toml"
-hash = "58537c9aa0c8a500d798cd7ebf413bb047bc8ac263754260648280a9420f8b50"
+hash = "912c22ba96ab5abbbc24fdffa68f95a1f21d9360ac39bb05f4dc5b3777dfc11f"
 metafile = true
 
 [[files]]
@@ -478,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcjtylib.pw.toml"
-hash = "c24990ef2c46b6162bcc863b1de0e122cbb03a9d9a0d31e00f1b3ce3508b6e0d"
+hash = "0c4037041d6e546c141984f8294166af45c729f5ff536d811a23d65973d807c0"
 metafile = true
 
 [[files]]
@@ -503,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "cbdd3f9a91ab196d9fc6a2b50046405efb5bbb2587befc3c05272db10f0ce6a0"
+hash = "c51279d7ceeb2370b7ca92f5dc50741cbebc7d9c58ae3ea9119fae795c95ba48"
 metafile = true
 
 [[files]]
@@ -528,7 +550,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "9446f7c936c9fb0fb73ac27f388849fc760107eeb5a50564e93c54f0dd2e8d97"
+hash = "bc23f32e54ca3ac7c8a9e9aa55372802b5cecb86824bf421da8397cf0bf2e869"
 metafile = true
 
 [[files]]
@@ -544,6 +566,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "3708d138fcfc8f482eb70c2109af2d2e544a20d9b9aeadd36955e43fd5055d87"
+metafile = true
+
+[[files]]
+file = "mods/pluto.pw.toml"
+hash = "9a495d7e040fc3aa0100fcbc89bba4c9d5c115c4b0a2b71a6dbbe23bd5c574e9"
 metafile = true
 
 [[files]]
@@ -578,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-utility.pw.toml"
-hash = "8d04beda5ceef7c5caa7358b0c7f1492eea9ce303ee2e78cb1302dd1dcbdb544"
+hash = "3fc20703f48e3123dcd6af016d389cea7bfd4643132720211b1727e88a98bbde"
 metafile = true
 
 [[files]]
@@ -623,12 +650,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "9917ab370f6e9bcddcf45a2fe6ead50ce47591e0431abad95b8c1086bb5e9363"
+hash = "0753b3791b2815ec7948210412b0404e7dce473bb62270b7398a7458614b2878"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "f6fcea8dbfc6e72b787ace96f59550d928f0cf347df8f1e94018fe598c327f6e"
+hash = "380381a01ac5af796b67dd4bcef0feb312d64af4d30ad92fe249a7b70b0df811"
 metafile = true
 
 [[files]]
@@ -653,12 +680,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "d74b966074318c02ac233f1ef9ab85ab59058866459c4bb0b6226f621590c08e"
+hash = "2fbe8c620f5869a9198461492f7e8ab9e57f5315c4176691cc4e02b04d94d683"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "f389cee82dafe0ff9ad934e2454b49c89dd84deb4a9a447cbb6781190b2b753d"
+hash = "2891bea6bfecd71e0061b6bef435641bfa5508de525280702a37af894327b428"
 metafile = true
 
 [[files]]
@@ -683,7 +710,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
-hash = "966a2bf523bbc3fe755b804d7e96115879873b4467ba2c6bfc03c15c7bf0555a"
+hash = "340e1fb9df4501861e779df3a20188653a43d0c61023237d4f936490fc527ca7"
 metafile = true
 
 [[files]]
@@ -718,7 +745,7 @@ metafile = true
 
 [[files]]
 file = "mods/wireless-chargers.pw.toml"
-hash = "c75091c68dede72bf4c96bd518e7cecbed334c7496e32d0bbfea1d4db590502d"
+hash = "2242d4beed8485a84b9f54d7cfbde96d634b2420ec0bf9642be6dacbd94f549a"
 metafile = true
 
 [[files]]

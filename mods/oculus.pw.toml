@@ -1,6 +1,6 @@
 name = "Oculus"
 filename = "oculus-1.4.3.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"
